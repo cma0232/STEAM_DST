@@ -1,0 +1,109 @@
+return {
+  ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
+  ["workshop-2078243581"]={
+    configuration_options={ Blue=0, Display="target", Green=0, Projectile=true, Red=1, Type="hit" },
+    enabled=true 
+  },
+  ["workshop-2420839895"]={
+    configuration_options={
+      ROPE_BRIDGE_BOARDS_RATIO=0.375,
+      ROPE_BRIDGE_DISTANCE=16,
+      ROPE_BRIDGE_ROPE_RATIO=0.375 
+    },
+    enabled=true 
+  },
+  ["workshop-356930882"]={
+    configuration_options={ uses=10000000, uses2=10000000, uses3=10000000 },
+    enabled=true 
+  },
+  ["workshop-358749986"]={
+    configuration_options={ IndicatorSize=3, MaxIndicator=7000, PlayerIndicators=1 },
+    enabled=true 
+  },
+  ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
+  ["workshop-374550642"]={
+    configuration_options={
+      STACK_SIZE_LARGEITEM=60,
+      STACK_SIZE_MEDITEM=60,
+      STACK_SIZE_SMALLITEM=60,
+      STACK_SIZE_TINYITEM=60 
+    },
+    enabled=true 
+  },
+  ["workshop-375850593"]={ configuration_options={  }, enabled=true },
+  ["workshop-375859599"]={
+    configuration_options={
+      divider=5,
+      random_health_value=0,
+      random_range=0,
+      send_unknwon_prefabs=false,
+      show_type=0,
+      unknwon_prefabs=1,
+      use_blacklist=true 
+    },
+    enabled=true 
+  },
+  ["workshop-378160973"]={
+    configuration_options={
+      ENABLEPINGS=true,
+      FIREOPTIONS=2,
+      OVERRIDEMODE=false,
+      SHAREMINIMAPPROGRESS=true,
+      SHOWFIREICONS=true,
+      SHOWPLAYERICONS=true,
+      SHOWPLAYERSOPTIONS=2 
+    },
+    enabled=true 
+  },
+  ["workshop-382177939"]={
+    configuration_options={ [""]=true, chillit="yep", eightxten="5x16", workit="yep" },
+    enabled=true 
+  },
+  ["workshop-458587300"]={ configuration_options={ Ownership=false, Travel_Cost=32 }, enabled=true },
+  ["workshop-458940297"]={
+    configuration_options={
+      DFV_ClientPrediction="default",
+      DFV_FueledSettings="default",
+      DFV_Language="EN",
+      DFV_MinimalMode="default",
+      DFV_PercentReplace="default",
+      DFV_ShowACondition="default",
+      DFV_ShowADefence="default",
+      DFV_ShowAType="default",
+      DFV_ShowDamage="default",
+      DFV_ShowFireTime="default",
+      DFV_ShowInsulation="default",
+      DFV_ShowTemperature="default",
+      DFV_ShowUses="default" 
+    },
+    enabled=true 
+  },
+  ["workshop-501385076"]={
+    configuration_options={
+      quick_cook_on_fire=true,
+      quick_harvest=true,
+      quick_pick_cactus=true,
+      quick_pick_plant_normal_ground=true 
+    },
+    enabled=true 
+  },
+  ["workshop-666155465"]={
+    configuration_options={
+      chestB=-1,
+      chestG=-1,
+      chestR=-1,
+      display_hp=-1,
+      food_estimation=-1,
+      food_order=0,
+      food_style=0,
+      lang="auto",
+      show_food_units=-1,
+      show_uses=-1 
+    },
+    enabled=true 
+  },
+  ["workshop-786556008"]={
+    configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
+    enabled=true 
+  } 
+}

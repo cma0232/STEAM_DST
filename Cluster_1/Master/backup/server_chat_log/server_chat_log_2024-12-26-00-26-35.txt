@@ -1,0 +1,4 @@
+[00:00:32]: [Join Announcement] 魚の捕手
+[00:01:03]: [Join Announcement] choko
+[00:22:39]: [Leave Announcement] 魚の捕手
+[00:22:39]: [Leave Announcement] choko

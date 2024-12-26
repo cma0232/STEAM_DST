@@ -1,0 +1,5 @@
+[00:00:32]: [Join Announcement] 魚の捕手
+[00:00:48]: [Join Announcement] choko
+[00:35:04]: [Death Announcement] choko 死于： 火。她变成了可怕的鬼魂！
+[00:35:14]: [Leave Announcement] 魚の捕手
+[00:35:15]: [Leave Announcement] choko
